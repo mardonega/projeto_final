@@ -15,3 +15,8 @@ Este repositório contém uma ferramenta de escoragem desenvolvida com PyCaret e
    git clone https://github.com/seuusuario/projeto_final.git
 
 pip install -r requirements.txt
+
+## Demonstração do Projeto
+
+[Clique aqui para assistir ao vídeo de demonstração](./projetofinal.webm)
+
