@@ -1,0 +1,4 @@
+educacao,estado_civil,idade,posse_de_imovel,posse_de_veiculo,qt_pessoas_residencia,qtd_filhos,renda,sexo,tempo_emprego,tipo_renda,tipo_residencia
+Médio,Solteiro,43,N,N,1.0,0,2515.39,F,6.87,Empresário,Casa
+Médio,Casado,35,S,S,2.0,0,3180.19,F,4.53,Assalariado,Casa
+Médio,Casado,31,N,N,4.0,2,1582.29,F,0.24,Assalariado,Casa

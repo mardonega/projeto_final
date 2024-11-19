@@ -1,0 +1,4 @@
+data_ref,index,educacao,estado_civil,idade,posse_de_imovel,posse_de_veiculo,qt_pessoas_residencia,qtd_filhos,renda,sexo,tempo_emprego,tipo_renda,tipo_residencia
+2023-01-01,1,Médio,Casado,35,S,N,2,1,3500.50,F,5.5,Assalariado,Casa
+2023-02-01,2,Superior completo,Solteiro,40,N,S,3,2,5000.75,M,10.2,Empresário,Apartamento
+2023-03-01,3,Fundamental,Viúvo,28,S,N,1,0,1200.00,F,1.1,Pensionista,Casa

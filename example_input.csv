@@ -1,0 +1,4 @@
+educacao,estado_civil,idade,posse_de_imovel,posse_de_veiculo,qt_pessoas_residencia,qtd_filhos,renda,sexo,tempo_emprego,tipo_renda,tipo_residencia
+Médio,Casado,35,S,N,2,1,3500.5,F,5.5,Assalariado,Casa
+Superior completo,Solteiro,40,N,S,3,2,5000.75,M,10.2,Empresário,Apartamento
+Fundamental,Viúvo,28,S,N,1,0,1200.0,F,1.1,Pensionista,Casa
